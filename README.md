@@ -59,6 +59,3 @@ if NumOfCir==4:
 
 # 6.아쉬운점
 조잡한 color , color+ 등의 선택창이 아쉽다
-
-# 7.깃허브
-https://github.com/GongDaeTaewoo/OpenCV
